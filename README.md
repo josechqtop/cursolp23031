@@ -12,3 +12,7 @@ https://www.pythonista.io
 ``` python
 print('Hola, mundo.')
 ```
+
+## Documentación
+
+Se extiende documentación
